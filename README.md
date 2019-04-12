@@ -1,3 +1,5 @@
+Fork notes: Added to add patch to fix "cannot freeze..." issue. See https://github.com/mzgoddard/hard-source-webpack-plugin/issues/416
+
 # HardSourceWebpackPlugin
 
 [![Build Status](https://travis-ci.org/mzgoddard/hard-source-webpack-plugin.svg?branch=master)](https://travis-ci.org/mzgoddard/hard-source-webpack-plugin) [![Build status](https://ci.appveyor.com/api/projects/status/761saaelxem01xo5/branch/master?svg=true)](https://ci.appveyor.com/project/mzgoddard/hard-source-webpack-plugin/branch/master)
